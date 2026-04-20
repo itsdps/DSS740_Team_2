@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Temp Files - files that you don't want to be deleted when you pull lastest code
+# Please save elsewhere also if you really care about but this should work
+.tmp/
+.temp/
+
+# OS files
+.DS_Store
+Thumbs.db
