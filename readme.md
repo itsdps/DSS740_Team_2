@@ -27,10 +27,11 @@ To download packages, type in terminal (make sure you in .venv):
 
         git add .
         git commit -m "message about what you change"
-        git push origin main      
+        git push -u origin HEAD      
 
         # Now tell David to Accept Pull Request :D
-
+        # OR you might be able to too!
+        
     **Pull from Github**:
         # Create a ".temp" folder in this project and put anything you don't want to be deleted in there
 
